@@ -33,7 +33,7 @@ Web, Mobile and Desktop application Dev. and IT Inspector.
                     </p>
                     
                   
-                  ### Socials
+### Socials
                   
 <p align="left"> 
 <a href="https://www.facebook.com/omar.mmaree.3" target="_blank" rel="noreferrer">
